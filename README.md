@@ -10,12 +10,12 @@ I am a System engineering student, currently halfway through my degree. I am exp
   - Flask
 -  I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything<br>
-- Outside tech, i like 🎮 playing videogames, 🎵 listening to music, and 📖 reading books and running.
+- Outside tech, i like 🎮 playing videogames, ♟️ play chess, 🎵 listening to music, and 📖 reading books and running.
 - 👾 Additionally, I 
 - 📫 Reach out to me at: <a href="ignaciobenitezz04@gmail.com">ignaciobenitezz04@gmail.com</a>
 
 
-## My Skills Include
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills Include
 
 <h4> Languages </h4>
 <span> 
@@ -36,7 +36,7 @@ I am a System engineering student, currently halfway through my degree. I am exp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
