@@ -6,6 +6,10 @@
 
 I'm a Systems Engineering student from Argentina, currently in my third year. I'm passionate about software development—especially backend and AI—and I'm always eager to learn and build creative, useful, and impactful solutions.
 
+- 🔗 [Check out my projects](https://github.com/Ignacio-dev0?tab=repositories)
+- 🔗 [Check out my CV in my Page](https://acortar.link/qq2sOa)
+- 🔗 [Check out my GitLab](https://gitlab.com/Ignacio-dev0)
+- 
 ### 🚀 I'm currently learning:
 - React
 - Flask
@@ -70,7 +74,7 @@ In my free time, I enjoy reading books 📚, running 🏃, playing chess ♟️,
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-benitez04)
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-- 🔗 [Check out my projects](https://github.com/Ignacio-dev0?tab=repositories)
+
 
 
 
