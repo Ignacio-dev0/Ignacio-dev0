@@ -9,7 +9,7 @@ I'm a Systems Engineering student from Argentina, currently in my third year. I'
 - 🔗 [Check out my projects](https://github.com/Ignacio-dev0?tab=repositories)
 - 🔗 [Check out my CV in my Page](https://acortar.link/qq2sOa)
 - 🔗 [Check out my GitLab](https://gitlab.com/Ignacio-dev0)
-- 
+
 ### 🚀 I'm currently learning:
 - React
 - Flask
