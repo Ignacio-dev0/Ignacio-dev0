@@ -7,7 +7,7 @@
 I'm a Systems Engineering student from Argentina, currently in my third year. I'm passionate about software development—especially backend and AI—and I'm always eager to learn and build creative, useful, and impactful solutions.
 
 - 🔗 [Check out my projects](https://github.com/Ignacio-dev0?tab=repositories)
-- 🔗 [Check out my CV in my Page](https://acortar.link/qq2sOa)
+- 🔗 [Check out my CV in my Page](https://micv-cicd-e2c215.gitlab.io/)
 - 🔗 [Check out my GitLab](https://gitlab.com/Ignacio-dev0)
 
 ### 🚀 I'm currently learning:
